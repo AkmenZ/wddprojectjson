@@ -1,0 +1,25 @@
+{
+  "product" : "products",
+  "productType" : "shoes",
+  "active" : true,
+  "products" : [
+    {
+      "name" : "Dunk 2020 Pro",
+      "price" : 69.99,
+      "description" : "description text goes here!",
+      "image" : "https://i.ibb.co/j8zMB1j/nike2.jpg"
+    },
+    {
+      "name" : "Air1 Max",
+      "price" : 79.99,
+      "description" : "description text goes here!",
+      "image" : "https://i.ibb.co/Lrff051/nike3.jpg"
+    },
+    {
+      "name" : "Court King 2.0",
+      "price" : 99.59,
+      "description" : "description text goes here!",
+      "image" : "https://i.ibb.co/JnYJWDG/nike4.jpg"
+    }
+  ]
+}
