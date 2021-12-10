@@ -7,13 +7,13 @@
       "name" : "Dunk 2020 Pro",
       "price" : 69.99,
       "description" : "description text goes here!",
-      "image" : "https://ibb.co/XWDsNvG";
+      "image" : "https://ibb.co/XWDsNvG"
     },
     {
       "name" : "Air1 Max",
       "price" : 79.99,
       "description" : "description text goes here!",
-      "image" : "https://ibb.co/hcvvgfV";
+      "image" : "https://ibb.co/hcvvgfV"
     }
   ]
 }
