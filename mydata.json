@@ -13,7 +13,7 @@
     {
       "name" : "Air1 Max",
       "price" : 79.99,
-      "description" : "Speed brings separation. The Air1 Max has a precise, ultralight feel thanks to an updated Eclipse plate.",
+      "description" : "Speed brings separation. The Air1 Max has a precise, ultralight feel and superior grip thanks to an updated Eclipse plate. Perfect for indoor courts.",
       "image" : "https://i.ibb.co/Lrff051/nike3.jpg",
       "type" : "shoes"
     },
@@ -26,8 +26,8 @@
     },
     {
       "name" : "All-Court Basketball",
-      "price" : 30.00,
-      "description" : "The All-Court Basketball is made from durable composite leather.Soft material has incredible touch for playing indoors.",
+      "price" : 29.99,
+      "description" : "The All-Court Basketball is made from durable composite leather.Soft material has incredible touch for playing indoors as well as outdoors.",
       "image" : "https://i.ibb.co/M7HcFLb/ball2.jpg",
       "type" : "balls"
     },
